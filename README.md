@@ -1,1 +1,2 @@
 # armstrong-number
+using function
